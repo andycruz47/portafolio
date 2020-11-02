@@ -5,7 +5,7 @@ html {
 .bienvenidos {
   background: url("../images/fondo-bienvenidos.jpg");
   background-size: cover;
-  height: 100vh;
+  height: 160vh;
   overflow: hidden; }
 
 .navbar-fixed-top {
@@ -134,4 +134,6 @@ html {
     .quienes-somos {
       background: url("../images/uni-grande.jpg");
       background-size: cover;}}
+
+
 /*# sourceMappingURL=estilos.css.map */
