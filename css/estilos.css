@@ -5,7 +5,7 @@ html {
 .bienvenidos {
   background: url("../images/fondo-bienvenidos.jpg");
   background-size: cover;
-  height: 165vh;
+  height: 180vh;
   overflow: hidden; }
 
 .navbar-fixed-top {
