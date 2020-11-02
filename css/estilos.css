@@ -129,6 +129,9 @@ html {
 
   .bienvenidos {
     background: url("../images/fondo-bienvenido-grande.jpg");
-    background-size: cover; } }
+    background-size: cover; } 
 
+    .quienes-somos {
+      background: url("../images/uni-grande.jpg");
+      background-size: cover;}}
 /*# sourceMappingURL=estilos.css.map */
