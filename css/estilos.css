@@ -57,8 +57,8 @@ html {
   border-color: #9ea6eb; }
 
   .img-circle {
-    width:200px;
-    height:250px;
+    width:150px;
+    height:150px;
     border-radius:50%;
     border:8px solid #666;
 }
